@@ -11,21 +11,21 @@ To present my personal sales performance in 2023, I created two datasets: one co
 #### 2-2 Data Structure
 
 **Data Structure**
-- Rows:
-- Columns:
+- Rows: 833
+- Columns: 15
 
 **Key Features**  
 `customer_id`: Unique identifier for each customer.  
-`status`: Current role of the customer (e.g. student, employed, unemployed).  
+`role_status`: Current role of the customer (e.g. student, employed, unemployed).  
 `level_of_education`: Highest degree earned or current academic standing.  
 `test_score`: Exam score or assessment result.  
-`inquiry_purpose`: Reason for initial consultation.  
-`list_source`: Source of customer lead.  
+`purpose`: Reason for initial consultation.  
+`by_channel`: Source of customer lead.  
 `consultation_date`: Date of the first consultation.  
-`consultation_status`: Current enrollment status (e.g. enrolled, unenrolled).  
-`enrollment_date`: Date of enrollment.  
-`tuition_paid`: Total revenue received from the student.  
-`reason_of_unenrolled`: Reason for unenrollment.
+`conversion_status`: Current enrollment status (e.g. enrolled, unenrolled).  
+`eorder_date`: Date of enrollment.  
+`sales`: Total revenue received from the student.  
+`non_conversion_reason`: Reason for non-conversion.
 
 #### 2-3 Key Objectives  
 1. Utilize Excel for data cleaning, build graphics and create interactive dashboards using Tableau.
@@ -35,6 +35,7 @@ To present my personal sales performance in 2023, I created two datasets: one co
 5. Analyze education levels to identify reasons for unenrollment and develop targeted strategies for different academic backgrounds.
 
 ## 3- Executive Summary
+
 ## 4- Exploratory Data Analysis
 ## 5- Insight Deep Dive
 ## 6- Recommendations
