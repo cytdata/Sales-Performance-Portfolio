@@ -28,10 +28,10 @@ To present my personal sales performance in 2023, I created two datasets: one co
 `non_conversion_reason`: Reason for non-conversion.
 
 #### 2-3 Key Objectives  
-1. Utilize Excel for data cleaning, build graphics and create interactive dashboards using Tableau.
-2. Increase volume of source lists and solve problems during off-season.
-3. Focus on unenrolled groups and enhance transaction rates through implemented measures.
-4. Compare different sources and increase lists with higher transaction rates.
+1. Utilize Excel for data collection and cleaning; build graphics and create interactive dashboards using Tableau.
+2. Increase source list volume and resolve problems during off-season.
+3. Focus on non-converting groups and enhance conversion rates through implemented measures.
+4. Compare different sources and expand lists with higher conversion rates.
 5. Analyze education levels to identify reasons for unenrollment and develop targeted strategies for different academic backgrounds.
 
 ## 3- Executive Summary
