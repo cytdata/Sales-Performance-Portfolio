@@ -1,4 +1,5 @@
-# Sales Performance Optimization: 2020-2023 Analysis & Strategies
+# Sales Performance Optimization:
+**2020-2023 Analysis & Strategies**
 
 ## 1- Project Background
 The main purpose of this project is to identify patterns to enhance sales performance. Examining data from 2020 to 2023, I discovered the crucial factors driving revenue growth, and implemented strategic improvements in 2023. As a result, I demonstrated the deep impact of the strategies and remarkable results. To ensure data confidentiality, I created a synthetic dataset to represent my personal sales performance.
