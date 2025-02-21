@@ -2,12 +2,13 @@
 **2020-2023 Analysis & Strategies**
 
 ## 1- Project Background
-The main purpose of this project is to identify patterns to enhance sales performance. Examining data from 2020 to 2023, I discovered the crucial factors driving revenue growth, and implemented strategic improvements in 2023. As a result, I demonstrated the deep impact of the strategies and remarkable results. To ensure data confidentiality, I created a synthetic dataset to represent my personal sales performance.
+
+Analyzed data and growth strategies from 2020 to 2023 to identify patterns that enhanced sales performance in 2023. The crucial factors driving revenue growth were significant lead list expansion and strategic improvements in our sales approach. To ensure data confidentiality, I created a synthetic dataset to represent my personal sales performance.
 
 ## 2- Dataset Overview
 
 #### 2-1 Dataset
-To present my personal sales performance in 2023, I created two datasets: one containing historical data from 2020 to 2022, and the other showing the 2023 results based on historical data analysis. Through analyzing this data, I significantly improved sales performance using key performance indicators. To protect sensitive information, I created a synthetic dataset that includes key variables such as date, lead list, sales revenue and descriptive information.
+The 2023 results are based on historical data analysis, showing how strategic changes led to performance improvements. To protect sensitive information, I created a synthetic dataset that includes key variables such as dates, sales revenue, and descriptive information.
 
 #### 2-2 Data Structure
 
