@@ -1,4 +1,4 @@
-# Sales Performance Optimization:
+# Customer Base Optimization & Growth Strategy
 **2020-2023 Analysis & Strategies**
 
 ## 1- Project Background
