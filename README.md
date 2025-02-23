@@ -43,7 +43,13 @@ In 2023, we tracked our progress weekly and discussed with various departments a
 
 
 ## 4- Exploratory Data Analysis
-[Sales Performance Optimization](https://github.com/cytdata/Jenna_Portfolio/blob/e89697fa41fc6bbde6f988eb8d572db573b3742c/Sales%20Performance%20Optimization.pdf)
+[Sales Performance Optimization](https://github.com/cytdata/Jenna_Portfolio/blob/95f410f66361f54a10dc7ae7cd7d691f7cca5086/Sales%20Performance%20Optimization.pdf)
 
-## 5- Insight Deep Dive
+**Dashboard**
+![Dashboard](https://github.com/user-attachments/assets/1381fb9d-0a93-4b39-b6a2-8787b58645a1)
+
+
+
+## 5- Conclusion
+
 ## 6- Recommendations
