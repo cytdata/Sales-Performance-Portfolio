@@ -43,11 +43,15 @@ In 2023, we tracked our progress weekly and discussed with various departments a
 
 
 ## 4- Exploratory Data Analysis
-[Sales Performance Optimization](https://github.com/cytdata/Jenna_Portfolio/blob/95f410f66361f54a10dc7ae7cd7d691f7cca5086/Sales%20Performance%20Optimization.pdf)
+Below is a summary of the executive summary from the report, with more detailed examples included throughout. The complete portfolio is available for download
+[here](https://github.com/cytdata/Jenna_Portfolio/blob/95f410f66361f54a10dc7ae7cd7d691f7cca5086/Sales%20Performance%20Optimization.pdf).
+
+![Sales Performance Optimization](https://github.com/user-attachments/assets/b4c50cd3-84f5-4baa-a75a-f66783738955)
 
 
-**Dashboard**
-Below is the overview page from the Tableau dashboard and more examples are included throughout the report.
+
+
+Below is the overview page from the Tableau dashboard.
 ![Dashboard](https://github.com/user-attachments/assets/1381fb9d-0a93-4b39-b6a2-8787b58645a1)
 
 
