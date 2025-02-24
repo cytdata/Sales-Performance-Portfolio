@@ -51,5 +51,8 @@ In 2023, we tracked our progress weekly and discussed with various departments a
 
 
 ## 5- Conclusion
+Established a CRM system for tracking lead lists and providing customized services, which rapidly increased the total customer base, resulting in 47.1% growth compared to the previous year. Additionally, we offered personalized interactions for each customer, including career development advice and post-class feedback. These improvements enhanced customer willingness to make repeat purchases, resulting in 66.4% sales growth.  
+
+Analysis shows that maintaining a stable conversion rate while increasing the customer base leads to sales performance growth. Moving forward, I will focus on analyzing CRM data to implement effective sales strategies, such as providing customized services and sending regular updates to leads, aiming to further elevate sales performance.
 
 ## 6- Recommendations
