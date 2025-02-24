@@ -53,7 +53,7 @@ Below is a summary of the executive summary from the report, with more detailed 
 - Among reasons for non-conversion, 20.5% cited affordability issues. The solution is to provide more payment method options.
 - Offer tailored product combinations for each target audience.
 - Expand digital product offerings to provide customers with more options.
-
+---
 Below is the overview page from the Tableau dashboard.
 ![Dashboard](https://github.com/user-attachments/assets/1381fb9d-0a93-4b39-b6a2-8787b58645a1)
 
@@ -63,3 +63,5 @@ Established a CRM system for tracking lead lists and providing customized servic
 Analysis shows that maintaining a stable conversion rate while increasing the customer base leads to sales performance growth. Moving forward, I will focus on analyzing CRM data to implement effective sales strategies, such as providing customized services and sending regular updates to leads, aiming to further elevate sales performance.
 
 ## 6- Recommendations
+- With a 34.4% conversion rate from search engine marketing, recommend increasing the budget for these activities to generate more leads.
+- 
