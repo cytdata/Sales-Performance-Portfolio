@@ -46,15 +46,16 @@ In 2023, we tracked our progress weekly and discussed with various departments a
 Below is a summary of the executive summary from the report, with more detailed examples included throughout. The complete portfolio is available for download
 [here](https://github.com/cytdata/Jenna_Portfolio/blob/95f410f66361f54a10dc7ae7cd7d691f7cca5086/Sales%20Performance%20Optimization.pdf).
 
-![Sales Performance Optimization](https://github.com/user-attachments/assets/b4c50cd3-84f5-4baa-a75a-f66783738955)
+![10](https://github.com/user-attachments/assets/2980d3e1-9747-43f3-8100-d17d6fc1e293)
+![11](https://github.com/user-attachments/assets/6ee41c35-302f-4a23-8e02-4761dcc66467)
 
-
-
+- Analyze customer demographics and identify reasons for non-conversion to improve performance.
+- Among reasons for non-conversion, 20.5% cited affordability issues. The solution is to provide more payment method options.
+- Offer tailored product combinations for each target audience.
+- Expand digital product offerings to provide customers with more options.
 
 Below is the overview page from the Tableau dashboard.
 ![Dashboard](https://github.com/user-attachments/assets/1381fb9d-0a93-4b39-b6a2-8787b58645a1)
-
-
 
 ## 5- Conclusion
 Established a CRM system for tracking lead lists and providing customized services, which rapidly increased the total customer base, resulting in 47.1% growth compared to the previous year. Additionally, we offered personalized interactions for each customer, including career development advice and post-class feedback. These improvements enhanced customer willingness to make repeat purchases, resulting in 66.4% sales growth.  
