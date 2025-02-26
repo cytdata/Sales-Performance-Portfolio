@@ -44,7 +44,7 @@ In 2023, we tracked our progress weekly and discussed with various departments a
 
 ## 4- Exploratory Data Analysis
 Below is a summary of the executive summary from the report, with more detailed examples included throughout. The complete portfolio is available for download
-[here](https://github.com/cytdata/Jenna_Portfolio/blob/95f410f66361f54a10dc7ae7cd7d691f7cca5086/Sales%20Performance%20Optimization.pdf).
+[here](https://github.com/cytdata/Jenna_Portfolio/blob/4b4f51a370af0c707e324f5ebf15d65fdd45c0fb/Sales%20Performance%20Optimization.pdf).
 
 ![10](https://github.com/user-attachments/assets/2980d3e1-9747-43f3-8100-d17d6fc1e293)
 ![11](https://github.com/user-attachments/assets/6ee41c35-302f-4a23-8e02-4761dcc66467)
