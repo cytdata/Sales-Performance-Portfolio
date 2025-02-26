@@ -54,6 +54,7 @@ Below is a summary of the executive summary from the report, with more detailed 
 - Offer tailored product combinations for each target audience.
 - Expand digital product offerings to provide customers with more options.
 ---
+
 Below is the overview page from the Tableau dashboard.
 ![Dashboard](https://github.com/user-attachments/assets/1381fb9d-0a93-4b39-b6a2-8787b58645a1)
 
