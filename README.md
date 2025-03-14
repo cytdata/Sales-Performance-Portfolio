@@ -1,5 +1,5 @@
-# Customer Base Optimization & Growth Strategy
-**2020-2023 Analysis & Strategies**
+# 2020-2023 Analysis & Strategies
+Customer Base Optimization & Growth Strategy
 
 ## 1- Project Background
 
@@ -13,21 +13,15 @@ The 2023 results are based on historical data analysis, showing how strategic ch
 #### 2-2 Data Structure
 
 **Data Structure**
-- Rows: 833
-- Columns: 15
+![schema](https://github.com/user-attachments/assets/04926770-32de-4dbc-bc9c-30d205c79f23)
 
-**Key Features**  
-`customer_id`: Unique identifier for each customer.  
+**Key Features**   
 `role_status`: Current role of the customer (e.g. student, employed, unemployed).  
 `education`: Highest degree earned or current academic standing.  
-`test_score`: Exam score or assessment result.  
 `purpose`: Reason for initial consultation.  
 `by_channel`: Source of customer lead.  
-`consultation_date`: Date of the first consultation.  
-`conversion_status`: Current enrollment status (e.g. enrolled, unenrolled).  
-`order_date`: Date of enrollment.  
-`sales`: Total revenue received from the student.  
 `non_conversion_reason`: Reason for non-conversion.
+
 
 #### 2-3 Key Objectives  
 1. Utilize Excel for data collection and cleaning; build graphics and create interactive dashboards using Tableau.
