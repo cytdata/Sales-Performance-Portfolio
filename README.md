@@ -3,7 +3,7 @@ Customer Base Optimization & Growth Strategy
 
 ## 1- Project Background
 
-Analyzed data and growth strategies from 2020 to 2023 to identify patterns that enhanced sales performance in 2023. The crucial factors driving revenue growth were significant lead list expansion and strategic improvements in our sales approach. To ensure data confidentiality, I created a synthetic dataset to represent my personal sales performance.
+Analyzed data and growth strategies from 2020 to 2023 to identify patterns that enhanced sales performance in 2023. The crucial factors **driving revenue growth were significant lead list expansion** and **strategic improvements** in our sales approach. To ensure data confidentiality, I created a synthetic dataset to represent my personal sales performance.
 
 ## 2- Dataset Overview
 
