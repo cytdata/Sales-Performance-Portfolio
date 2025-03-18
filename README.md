@@ -50,7 +50,8 @@ Below is a summary of the executive summary from the report, with more detailed 
 ---
 
 Below is the overview page from the Tableau dashboard and is available for download [here.](https://public.tableau.com/app/profile/cytdata/viz/SalesPerformance_17417274100470/1)
-![Sales Dashboard](https://github.com/user-attachments/assets/95f8219f-7ebb-40d7-bf21-e833406439cf)
+![Sales Dashboard](https://github.com/user-attachments/assets/8b666862-d9b3-4b1f-802f-a07f4898b6c0)
+
 
 
 ## 5- Conclusion
