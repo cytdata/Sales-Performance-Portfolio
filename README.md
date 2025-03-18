@@ -49,14 +49,12 @@ Below is a summary of the executive summary from the report, with more detailed 
 - Expand digital product offerings to provide customers with more options.
 ---
 
-Below is the overview page from the Tableau dashboard.
-![Dashboard](https://github.com/user-attachments/assets/1381fb9d-0a93-4b39-b6a2-8787b58645a1)
+Below is the overview page from the Tableau dashboard and is available for download [here.](https://public.tableau.com/app/profile/cytdata/viz/SalesPerformance_17417274100470/1)
+![Sales Dashboard](https://github.com/user-attachments/assets/95f8219f-7ebb-40d7-bf21-e833406439cf)
+
 
 ## 5- Conclusion
 Established a CRM system for tracking lead lists and providing customized services, which rapidly increased the total customer base, resulting in 47.1% growth compared to the previous year. Additionally, we offered personalized interactions for each customer, including career development advice and post-class feedback. These improvements enhanced customer willingness to make repeat purchases, resulting in 66.4% sales growth.  
 
 Analysis shows that maintaining a stable conversion rate while increasing the customer base leads to sales performance growth. Moving forward, I will focus on analyzing CRM data to implement effective sales strategies, such as providing customized services and sending regular updates to leads, aiming to further elevate sales performance.
 
-## 6- Recommendations
-- With a 34.4% conversion rate from search engine marketing, recommend increasing the budget for these activities to generate more leads.
-- 
