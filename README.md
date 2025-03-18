@@ -1,4 +1,4 @@
-# 2020-2023 Analysis & Strategies
+# 2020-2023 Sales Performance Analysis & Dashboard
 Customer Base Optimization & Growth Strategy
 
 ## 1- Project Background
