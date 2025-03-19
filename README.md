@@ -8,7 +8,7 @@ Analyzed data and growth strategies from 2020 to 2023 to identify patterns that 
 ## 2- Dataset Overview
 
 #### 2-1 Dataset
-The 2023 results are based on historical data analysis, showing how strategic changes led to performance improvements. To protect sensitive information, I created a synthetic dataset that includes key variables such as dates, sales revenue, and descriptive information.
+The 2023 results are based on historical data analysis. The dashboard shows how strategic changes led to performance improvements. It includes key insights into revenue, list quantity, and conversion rates by marketing channel effectiveness and customer demographics. By visualizing this data, the factors identified help improve data analysis and optimize sales strategies to enhance sales performance and optimize sales strategies. Based on the ratio, I created a synthetic dataset to protect sensitive information.
 
 #### 2-2 Data Structure
 
@@ -24,11 +24,11 @@ The 2023 results are based on historical data analysis, showing how strategic ch
 
 
 #### 2-3 Key Objectives  
-1. Utilize Excel for data collection and cleaning; build graphics and create interactive dashboards using Tableau.
-2. Increase source list volume and resolve problems during off-season.
-3. Focus on non-converting groups and enhance conversion rates through implemented measures.
-4. Compare different sources and expand lists with higher conversion rates.
-5. Analyze education levels to identify reasons for unenrollment and develop targeted strategies for different academic backgrounds.
+1. Utilize Excel for data collection and cleaning; use Tableau for data preprocessing and creating interactive dashboards.
+2. Analyze sales performance trends from 2020-2023 to identify growth patterns and resolve problems during off-season demographic influences on purchasing behavior.
+3. Compare and analyze different marketing channels to find out the higher conversion rate for enhancing revenue.
+4. Identify factors that contributed to the 25.3% revenue increase in 2023 and duplicate the successful strategies for implementation.
+5. Develop data-driven recommendations for continued growth and improve internal management effectiveness.
 
 ## 3- Executive Summary
 Based on the chart, a decline in sales was observed during the first half of 2020. Analysis revealed that the primary reason was the disproportionately high percentage of students in the customer base, which created an imbalance due to seasonal fluctuations. The main solution is to increase the proportion of employed customers as a priority task to balance out seasonal effects. Although 'referral by friends' and 'repeat purchases' show higher conversion rates, both sources have the lowest number of people. The strategy should be modified to build lead lists in the CRM system to increase membership numbers. Additionally, we should monitor membership status and analyze patterns to understand what drives repeat purchases. According to data, 20.5% of non-conversions are due to customers cannot afford the products. To address this, we should provide more payment method options such as Line Pay and JKO Pay, and extend the monthly loan periods to reduce customers' financial pressure. Junior and senior college students show a higher proportion of responses indicating they are 'not ready to face' or have 'no immediate needs'. However, since they will soon face graduate school entrance exams or employment, they actually have higher potential needs. After discussing with supervisors, this situation will be improved.
