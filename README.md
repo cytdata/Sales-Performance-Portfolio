@@ -25,7 +25,7 @@ The 2023 results are based on historical data analysis. The dashboard shows how 
 
 #### 2-3 Key Objectives  
 1. Utilize Excel for data collection and cleaning; use Tableau for data preprocessing and creating interactive dashboards.
-2. Analyze sales performance trends from 2020-2023 to identify growth patterns and resolve problems during off-season demographic influences on purchasing behavior.
+2. Analyze sales performance trends from 2020-2023 to identify growth patterns and resolve problems during off-season periods, with focus on demographic influences on purchasing behavior.
 3. Compare and analyze different marketing channels to find out the higher conversion rate for enhancing revenue.
 4. Identify factors that contributed to the 25.3% revenue increase in 2023 and duplicate the successful strategies for implementation.
 5. Develop data-driven recommendations for continued growth and improve internal management effectiveness.
