@@ -16,7 +16,7 @@ The 2023 results are based on historical data analysis. The dashboard shows how 
 ![schema](https://github.com/user-attachments/assets/04926770-32de-4dbc-bc9c-30d205c79f23)
 
 **Key Features**   
-`role_status`: Current role of the customer (e.g. student, employed, unemployed).  
+`role_status`: Current role of the customer.  
 `education`: Highest degree earned or current academic standing.  
 `purpose`: Reason for initial consultation.  
 `by_channel`: Source of customer lead.  
@@ -24,11 +24,12 @@ The 2023 results are based on historical data analysis. The dashboard shows how 
 
 
 #### 2-3 Key Objectives  
-1. Utilize Excel for data collection and cleaning; use Tableau for data preprocessing and creating interactive dashboards.
-2. Analyze sales performance trends from 2020-2023 to identify growth patterns and resolve problems during off-season periods, with focus on demographic influences on purchasing behavior.
-3. Compare and analyze different marketing channels to find out the higher conversion rate for enhancing revenue.
-4. Identify factors that contributed to the 25.3% revenue increase in 2023 and duplicate the successful strategies for implementation.
-5. Develop data-driven recommendations for continued growth and improve internal management effectiveness.
+1. Analyze the factors affecting sales performance, focusing on increasing revenue and improving strategies.
+2. Use data visualization to analyze annual sales trends and resolve problems during off-season periods.
+3. Analyze marketing channels to identify those with higher conversion rates and expand the lead lists for these channels.
+4. Develop data-driven recommendations for continued growth and improve internal management effectiveness.
+5. By analyzing demographic factors such as age and gender, focus on segmenting customer groups more effectively and implementing precision marketing strategies.
+
 
 ## 3- Executive Summary
 Based on the chart, a decline in sales was observed during the first half of 2020. Analysis revealed that the primary reason was the disproportionately high percentage of students in the customer base, which created an imbalance due to seasonal fluctuations. The main solution is to increase the proportion of employed customers as a priority task to balance out seasonal effects. Although 'referral by friends' and 'repeat purchases' show higher conversion rates, both sources have the lowest number of people. The strategy should be modified to build lead lists in the CRM system to increase membership numbers. Additionally, we should monitor membership status and analyze patterns to understand what drives repeat purchases. According to data, 20.5% of non-conversions are due to customers cannot afford the products. To address this, we should provide more payment method options such as Line Pay and JKO Pay, and extend the monthly loan periods to reduce customers' financial pressure. Junior and senior college students show a higher proportion of responses indicating they are 'not ready to face' or have 'no immediate needs'. However, since they will soon face graduate school entrance exams or employment, they actually have higher potential needs. After discussing with supervisors, this situation will be improved.
