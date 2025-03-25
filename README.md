@@ -32,6 +32,15 @@ The 2023 results are based on historical data analysis. The dashboard shows how 
 
 
 ## 3- Executive Summary
+During and after the Covid-19 era, sales have continued to decline with significant drops in late 2021. Key performance indicators have all shown year-over-year decreases: revenue by 1.7%, order volume by 10.9%and potential clientele by 24.2%. Although the conversion rate increased, I implemented exploratory data analysis (EDA) to identify key factors that could improve sales performance and set the foundation for our 2023 strategic initiatives.
+
+Based on insights from EDA, including optimizing customer service processes, implementing targeted marketing, and managing potential clients on the CRM system, sales have continued to rise with substantial growth. Key performance indicators have all shown year-over-year increases: total sales reached $5.12M (+25.3% YoY), the potential clientele increased by 29.3%, and order quantity sold by 41.9%. 
+The strongest marketing drivers were friend referrals, search engine marketing, and walk-in customers, each with over 40% growth in conversion.
+
+Below is the overview page from the Tableau dashboard and more examples are included throughout the report.  
+The entire interactive dashboard can be downloaded [here.](https://public.tableau.com/app/profile/cytdata/viz/SalesPerformance_17417274100470/1)
+![Sales Dashboard (1)](https://github.com/user-attachments/assets/31c8bb93-7e15-479d-ba40-00fed58c09cd)
+
 
 
 
@@ -42,10 +51,7 @@ The 2023 results are based on historical data analysis. The dashboard shows how 
 - Among reasons for non-conversion, 20.5% cited affordability issues. The solution is to provide more payment method options.
 - Offer tailored product combinations for each target audience.
 - Expand digital product offerings to provide customers with more options.
----
 
-Below is the overview page from the Tableau dashboard and is available for download [here.](https://public.tableau.com/app/profile/cytdata/viz/SalesPerformance_17417274100470/1)
-![Sales Dashboard](https://github.com/user-attachments/assets/8b666862-d9b3-4b1f-802f-a07f4898b6c0)
 
 
 
